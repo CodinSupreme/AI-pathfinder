@@ -5,3 +5,6 @@ It contains some of the best and most used path finding algorithm such as:
 * Greedy First Search
 * Breadth First Search
 * Depth First Search
+
+# Requirements
+* customtkinter
